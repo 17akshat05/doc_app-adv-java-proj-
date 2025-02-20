@@ -41,8 +41,6 @@ I recommend to better exp you can use the NetBeans!!
 
 Author
 
-👤 Ankit (ankit1068)
-
-GitHub:ankit1068
-Ankit Kumar
-Email: ankitrajj1068@gmail.com
+👤 Akshat Jaun
+GitHub:17akshat05
+Email: 17akshat05@gmail.com
